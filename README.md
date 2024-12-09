@@ -81,8 +81,9 @@ job-market-analysis/
 - No personal or sensitive data collection
 
 ## Output Images
-![image](https://github.com/user-attachments/assets/57518644-b0bb-46f9-b946-3a77145167a8)
-![image](https://github.com/user-attachments/assets/d80461e6-dd27-4670-b0ce-11822be5fc5a)
+![image](https://github.com/user-attachments/assets/4d296a9b-34ac-4e2a-839b-f03c41e62d73)
+![image](https://github.com/user-attachments/assets/e4cc6484-b3ee-4217-a1dd-9b464a66472e)
+
 
 
 ```
