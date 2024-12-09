@@ -24,29 +24,26 @@ This project demonstrates a comprehensive data engineering pipeline using web sc
 
 
 2.Data Preprocessing (preprocessor.py):
-
-Cleans and transforms scraped data
-Removes duplicates
-Encodes categorical variables
-Performs feature engineering
-Trains a Random Forest Classifier to predict job availability
-
-
-Database Storage (database_storage.py):
-
-Uses SQLAlchemy with SQLite
-Creates an ORM model for job listings
-Supports inserting and querying job data
-Provides methods for database interactions
+- Cleans and transforms scraped data
+- Removes duplicates
+- Encodes categorical variables
+- Performs feature engineering
+- Trains a Random Forest Classifier to predict job availability
 
 
-Main Pipeline (main.py):
+3.Database Storage (database_storage.py):
+- Uses SQLAlchemy with SQLite
+- Creates an ORM model for job listings
+- Supports inserting and querying job data
+- Provides methods for database interactions
 
-Orchestrates the entire data engineering workflow
-Runs web scraping, preprocessing, ML model training
-Stores data in database
-Generates visualizations
-Implements comprehensive logging
+
+4.Main Pipeline (main.py):
+- Orchestrates the entire data engineering workflow
+- Runs web scraping, preprocessing, ML model training
+- Stores data in database
+- Generates visualizations
+- Implements comprehensive logging
 
 
 
