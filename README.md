@@ -1,6 +1,6 @@
 # Web-Scrapping-Analysis
 
-# Web Scraping and Machine Learning Data Pipeline
+# Web Scraping and Model Analysis
 
 ## Project Overview
 This project demonstrates a comprehensive data engineering pipeline using web scraping, data preprocessing, machine learning, and database storage.
