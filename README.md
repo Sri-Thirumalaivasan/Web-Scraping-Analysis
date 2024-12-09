@@ -79,4 +79,12 @@ job-market-analysis/
 - Adherence to website's robots.txt
 - Respectful scraping practices
 - No personal or sensitive data collection
+
+## Output Images
+![image](https://github.com/user-attachments/assets/57518644-b0bb-46f9-b946-3a77145167a8)
+![image](https://github.com/user-attachments/assets/d80461e6-dd27-4670-b0ce-11822be5fc5a)
+
+
 ```
+
+
