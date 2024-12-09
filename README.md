@@ -12,6 +12,46 @@ This project demonstrates a comprehensive data engineering pipeline using web sc
 - Database: SQLAlchemy (SQLite)
 - Visualization: Matplotlib, Seaborn
 
+## Project Structure and Components
+
+1.Web Scraping (scraper.py):
+- Uses Selenium WebDriver with Chrome
+- Scrapes job listings from Indeed.com
+- Extracts job title, company, location
+- Supports multiple keywords and locations
+- Implements random delays to avoid rate limiting
+- Logs scraping activities
+
+
+2.Data Preprocessing (preprocessor.py):
+
+Cleans and transforms scraped data
+Removes duplicates
+Encodes categorical variables
+Performs feature engineering
+Trains a Random Forest Classifier to predict job availability
+
+
+Database Storage (database_storage.py):
+
+Uses SQLAlchemy with SQLite
+Creates an ORM model for job listings
+Supports inserting and querying job data
+Provides methods for database interactions
+
+
+Main Pipeline (main.py):
+
+Orchestrates the entire data engineering workflow
+Runs web scraping, preprocessing, ML model training
+Stores data in database
+Generates visualizations
+Implements comprehensive logging
+
+
+
+
+
 ## Project Structure
 ```
 job-market-analysis/
